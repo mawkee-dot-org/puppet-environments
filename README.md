@@ -19,3 +19,5 @@ AAA
 BBB
 
 CCC
+
+TRIGGER
